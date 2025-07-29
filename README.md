@@ -6,5 +6,5 @@ A hands‑on workshop at Nebraska.Code() 2025 that guided developers through bu
 
 ## Resources
 
-- View the [workshop slides](https://example.com/your-slides)
+- View the [workshop slides](https://github.com/cyatteau/nebraska-code-2025-js-map-workshop/blob/main/Slides_Final_After.pdf)
 - Mapping Module [Demos](https://codepen.io/collection/QbNxWo)
