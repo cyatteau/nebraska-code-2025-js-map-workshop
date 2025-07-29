@@ -1,4 +1,4 @@
-# Interactive Mapping with JavaScript: Build Custom Web Maps from Scratch
+# Interactive Mapping with JavaScript: Build Custom Web Maps from Scratch 🗺️
 
 **Nebraska.Code() 2025 | July 23, 2025**
 
