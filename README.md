@@ -7,4 +7,4 @@ A hands‑on workshop at Nebraska.Code() 2025 that guided developers through bu
 ## Resources
 
 - View the [workshop slides](https://example.com/your-slides)
-- Mapping Module [Demos](https://codepen.io/yourusername/pen/mapping-basics)
+- Mapping Module [Demos](https://codepen.io/collection/QbNxWo)
